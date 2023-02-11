@@ -1,0 +1,78 @@
+body {
+	background-color: teal;
+	
+}
+
+img {
+	
+	border-radius: 8px;
+	width: 300;
+	height: auto;
+}
+
+
+td.one {
+	
+	border-bottom: 1px solid;
+	padding: 50px;
+	border-right: 1px solid;
+}
+
+td.two {
+	
+	border-bottom: 1px solid;
+	padding: 50px;
+}
+
+td.three {
+	
+	padding: 50px;
+	border-right: 1px solid;	
+}
+
+td.four {
+	
+	padding: 50px;
+}
+
+h1 {
+	
+	color: black;
+	background-color: white;
+	border-radius: 8px;
+	max-width: 680px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-family: "Comic Sans MS";
+	font-size: 50px;
+	text-shadow: 2px 2px 5px teal;
+	
+}
+
+table.one{
+	color: black;
+	background-color: white;
+	padding: 10px;
+	border-radius: 8px;
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+	text-align: left;
+}
+
+table.two{
+	color: black;
+	background-color: white;
+	padding: 10px;
+	border-radius: 8px;
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+button	{
+	font-size: 50px;
+	
+}
